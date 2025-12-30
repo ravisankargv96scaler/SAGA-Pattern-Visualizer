@@ -1,0 +1,5 @@
+{
+  "name": "26d-SAGA Pattern Visualizer",
+  "description": "An interactive educational tool demonstrating distributed transaction patterns (SAGA) using React, visualizations, and simulations.",
+  "requestFramePermissions": []
+}
